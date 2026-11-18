@@ -8,6 +8,7 @@
 <p><strong>Frontend or full-stack engineer</strong></p>
 <p>Cyber Security student (Leeds Beckett) | Linux, Python, AI | Open-source contributor | Seeking Cloud/DevOps role | upwork.com/freelancers/~015538e4d1cd6eb658</p>
 <p><sub>Based in Leeds, UK</sub></p>
+<p><strong>Freelance:</strong> websites, web apps and automation at <a href="https://tesselo.co.uk">tesselo.co.uk</a></p>
 
 <table width="100%">
 <tr>
